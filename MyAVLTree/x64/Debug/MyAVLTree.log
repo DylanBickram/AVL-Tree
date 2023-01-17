@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\dbick\OneDrive\School\COP3530\Project1\MyAVLTree\MyAVLTree.h(613,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  test.cpp
+C:\Users\dbick\OneDrive\School\COP3530\Project1\MyAVLTree\MyAVLTree.h(613,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyAVLTree.vcxproj -> C:\Users\dbick\OneDrive\School\COP3530\Project1\MyAVLTree\x64\Debug\MyAVLTree.exe
